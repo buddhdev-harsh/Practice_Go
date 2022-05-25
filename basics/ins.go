@@ -14,9 +14,9 @@ func Ins_Of_all_Type() {
 	fmt.Println("enter float: ")
 	fmt.Scanf("%f", &f)
 
-	Get_type(i)
-	Get_type(s)
-	Get_type(f)
+	// Get_type(i)
+	// Get_type(s)
+	// Get_type(f)
 
 	fmt.Printf("%v loves number %v and his age is: %v", s, i, f)
 }
